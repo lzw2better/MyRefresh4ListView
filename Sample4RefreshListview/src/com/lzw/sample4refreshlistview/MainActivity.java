@@ -19,7 +19,11 @@ import android.widget.TextView;
 
 import com.lzw.widget.OnRefreshListener;
 import com.lzw.widget.RefreshListView;
-
+/**
+ *¿ò¼ÜÊµÀý
+ * @author doudou
+ *
+ */
 public class MainActivity extends Activity {
 	
 	private List<String> listData;
