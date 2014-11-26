@@ -21,7 +21,7 @@ import com.lzw.widget.OnRefreshListener;
 import com.lzw.widget.RefreshListView;
 /**
  *¿ò¼ÜÊµÀý
- * @author doudou
+ * @author lzw
  *
  */
 public class MainActivity extends Activity {
