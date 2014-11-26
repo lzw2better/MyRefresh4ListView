@@ -1,7 +1,7 @@
 package com.lzw.widget;
 
 /**
- * @author andong
+ * @author lzw
  * RefreshListView刷新事件的监听
  */
 public interface OnRefreshListener {

@@ -23,7 +23,7 @@ import android.widget.TextView;
 
 
 /**
- * @author andong
+ * @author lzw
  * 下拉刷新, 上拉加载 ListView
  */
 public class RefreshListView extends ListView implements OnScrollListener {
